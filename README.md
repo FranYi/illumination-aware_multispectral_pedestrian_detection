@@ -21,7 +21,10 @@ If you find the detection results helpful for your research, please cite our pap
   title={Fusion of Multispectral Data Through Illumination-aware Deep Neural Networks for Pedestrian Detection},
   author={Guan, Dayan and Cao, Yanpeng and Yang, Jiangxin and Cao, Yanlong and Yang, Michael Ying},
   journal={Information Fusion},
-  year={2018}
+  volume = "50",
+  pages = "148 - 157",
+  year = "2019",
+  issn = "1566-2535"
 }
 
 If you have questions or comments, please contact
