@@ -13,7 +13,7 @@ Ground truth (reasonable[1] subset of the KAIST test datastet): gt-Reasonable.
 
 [4] Dayan Guan, Yanpeng Cao, Jiangxin Yang, Yanlong Cao, and Christel-Loic Tisse, "Exploiting fusion architectures for multispectral pedestrian detection and segmentation." Appl. Opt. 57, D108-D116 (2018)
 
-[5] Dayan Guan, Yanpeng Cao, Jiangxin Yang, Yanlong Cao, and Michael Ying Yang, "Fusion of Multispectral Data Through Illumination-aware Deep Neural Networks for Pedestrian Detection." Information Fusion (2018)
+[5] Dayan Guan, Yanpeng Cao, Jiangxin Yang, Yanlong Cao, and Michael Ying Yang, "Fusion of Multispectral Data Through Illumination-aware Deep Neural Networks for Pedestrian Detection." Information Fusion (2019)
 
 If you find the detection results helpful for your research, please cite our paper:
 
